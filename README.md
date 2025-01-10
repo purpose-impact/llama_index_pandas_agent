@@ -1,0 +1,7 @@
+- Create a key from Groq - which is free for now. You can access all the top end OpenSource LLMs via Groq!
+    - https://console.groq.com/playground
+- add a .env file with your GROQ_API_KEY
+    - GROQ_API_KEY='...'
+- then run pip install -r requirements.txt
+- run the app.py by python app.py
+- Enjoy!
