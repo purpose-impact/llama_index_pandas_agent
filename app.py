@@ -8,7 +8,7 @@ from llama_index.core import PromptTemplate
 
 _ = load_dotenv()
 
-api_key = os.getenv("LLAMA_API_KEY")
+api_key = os.getenv("GROQ_API_KEY")
 
 Settings.llm = Groq(model="llama-3.3-70b-versatile", api_key=api_key)
 

@@ -4,3 +4,8 @@ llama-index-llms-groq
 python-dotenv
 streamlit
 pandas
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+tabulate
